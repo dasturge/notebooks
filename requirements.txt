@@ -1,3 +1,4 @@
+dm-sonnet
 ipywidgets
 jupyter
 matplotlib
@@ -5,5 +6,6 @@ nibabel
 numpy
 requests
 scikit-image
-tqdm
+scikit-learn
+tensorflow
 
